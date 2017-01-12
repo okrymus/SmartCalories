@@ -1,0 +1,13 @@
+Net calories gained is 1923 on the date
+
+              Showing the rocord on   Tuesday 14th   January 2016
+       ==================================================================
+       =    List of foods    Unit   Calories/unit   Total calories      =
+       ==================================================================
+         1. Orange              3              71              213
+         2. Pizaa               1             700              700
+         3. Rad na              1             890              890
+         4. Thai tea            2              60              120
+                                               Net Total      1923
+
+	 You need more 1312.13 calories to maintain your weight.

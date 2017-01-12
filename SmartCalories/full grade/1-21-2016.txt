@@ -1,0 +1,14 @@
+Net calories gained is 3546 on the date
+
+              Showing the rocord on   Tuesday 21st   January 2016
+       ==================================================================
+       =    List of foods    Unit   Calories/unit   Total calories      =
+       ==================================================================
+         1. Pizza               2             780             1560
+         2. Diet Coke           2               3                6
+         3. Pop eye             4             400             1600
+         4. Ice cream           2              40               80
+         5. Milk, whole         2             150              300
+                                               Net Total      3546
+
+	 You need to reduce 310.87 calories to maintain your weight.

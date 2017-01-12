@@ -1,0 +1,13 @@
+Net calories gained is 1280 on the date
+
+              Showing the rocord on    Monday  4th   January 2016
+       ==================================================================
+       =    List of foods    Unit   Calories/unit   Total calories      =
+       ==================================================================
+         1. Caesar salad        1             360              360
+         2. Potato              1             120              120
+         3. Yogurt, non-fat     1             200              200
+         4. Beer                4             150              600
+                                               Net Total      1280
+
+	 You need more 1955.13 calories to maintain your weight.

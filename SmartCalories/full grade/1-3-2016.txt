@@ -1,0 +1,12 @@
+Net calories gained is 510 on the date
+
+              Showing the rocord on    Sunday  3rd   January 2016
+       ==================================================================
+       =    List of foods    Unit   Calories/unit   Total calories      =
+       ==================================================================
+         1. Sandwich            1             310              310
+         2. Chicken             2             100              200
+         3. water               6               0                0
+                                               Net Total       510
+
+	 You need more 2725.13 calories to maintain your weight.

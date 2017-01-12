@@ -1,0 +1,14 @@
+Net calories gained is 2093 on the date
+
+              Showing the rocord on    Friday  1st   January 2016
+       ==================================================================
+       =    List of foods    Unit   Calories/unit   Total calories      =
+       ==================================================================
+         1. Hamburger           1             700              700
+         2. Rice                1             225              225
+         3. Cookies             4              40              160
+         4. Sushi               8             100              800
+         5. Milk, low-fat(1 %)    2             104              208
+                                               Net Total      2093
+
+	 You need more 1142.13 calories to maintain your weight.

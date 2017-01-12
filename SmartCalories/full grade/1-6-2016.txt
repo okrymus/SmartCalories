@@ -1,0 +1,13 @@
+Net calories gained is 1905 on the date
+
+              Showing the rocord on Wednesday  6th   January 2016
+       ==================================================================
+       =    List of foods    Unit   Calories/unit   Total calories      =
+       ==================================================================
+         1. Pork                3              80              240
+         2. Beef                3             120              360
+         3. Pizza               1             700              700
+         4. Hamburger           1             605              605
+                                               Net Total      1905
+
+	 You need more 1330.13 calories to maintain your weight.

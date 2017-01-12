@@ -1,0 +1,13 @@
+Net calories gained is 2920 on the date
+
+              Showing the rocord on   Tuesday 28th   January 2016
+       ==================================================================
+       =    List of foods    Unit   Calories/unit   Total calories      =
+       ==================================================================
+         1. Cheese cake factory    1            1600             1600
+         2. KFC                 3             200              600
+         3. Smooties            1             120              120
+         4. top                 3             200              600
+                                               Net Total      2920
+
+	 You need more 315.13 calories to maintain your weight.

@@ -1,0 +1,19 @@
+
+	                   Smart Calories Calculator              
+	                        By Lee. Panupong                  
+
+	                ******************************** 
+	                *         Daily report         * 
+	                ******************************** 
+
+              Showing the rocord on    Sunday 31st   January 2016
+       ==================================================================
+       =    List of foods    Unit   Calories/unit   Total calories      =
+       ==================================================================
+         1. Sandwich            2             310              620
+         2. Egg                 4              80              320
+         3. Ice cream           5              63              315
+         4. Shumai              4              50              200
+                                               Net Total      1455
+
+	 You need more 1780.13 calories to maintain your weight.

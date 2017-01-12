@@ -1,0 +1,16 @@
+
+	                   Smart Calories Calculator              
+	                        By Lee. Panupong                  
+
+  Name    : full grade
+  Age     : 20
+  Gender  : male
+  Height  : 5" 6'
+  Weight  : 150
+  Activity: exercise or play sport very hard
+
+  You need 3235.13 Calories / day to maintain your weight.
+  You need 2735.13 Calories / day to lose 1 lb per week.
+  You need 2235.13 Calories / day to lose 2 lb per week.
+  You need 3735.13 Calories / day to gain 1 lb per week.
+  You need 4235.13 Calories / day to gain 2 lb per week.

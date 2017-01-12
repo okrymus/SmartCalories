@@ -1,0 +1,14 @@
+Net calories gained is 1965 on the date
+
+              Showing the rocord on   Tuesday  7th   January 2016
+       ==================================================================
+       =    List of foods    Unit   Calories/unit   Total calories      =
+       ==================================================================
+         1. Tomato              2              30               60
+         2. Yogurt, non-fat     1             155              155
+         3. Pat thai            1             700              700
+         4. Sanwish             1             600              600
+         5. Rice                2             225              450
+                                               Net Total      1965
+
+	 You need more 1270.13 calories to maintain your weight.

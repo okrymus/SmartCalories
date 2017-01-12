@@ -1,0 +1,16 @@
+
+	                   Smart Calories Calculator              
+	                        By Lee. Panupong                  
+
+  Name    : Toto
+  Age     : 21
+  Gender  : male
+  Height  : 6" 0'
+  Weight  : 160
+  Activity: exercise or play sports 3-5 times/week
+
+  You need 2843.32 Calories / day to maintain your weight.
+  You need 2343.32 Calories / day to lose 1 lb per week.
+  You need 1843.32 Calories / day to lose 2 lb per week.
+  You need 3343.32 Calories / day to gain 1 lb per week.
+  You need 3843.32 Calories / day to gain 2 lb per week.

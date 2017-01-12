@@ -1,0 +1,12 @@
+Net calories gained is 1500 on the date
+
+              Showing the rocord on    Friday  8th   January 2016
+       ==================================================================
+       =    List of foods    Unit   Calories/unit   Total calories      =
+       ==================================================================
+         1. Yum                 1             500              500
+         2. Pizza               1             800              800
+         3. snack               1             200              200
+                                               Net Total      1500
+
+	 You need more 1735.13 calories to maintain your weight.

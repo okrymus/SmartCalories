@@ -1,0 +1,103 @@
+
+	                   Smart Calories Calculator              
+	                        By Lee. Panupong                  
+
+	                ******************************* 
+	                *        Weekly report        * 
+	                ******************************* 
+	               The program found  7 days record.
+	              between  1st -  7th   January 2016
+
+              Showing the rocord on    Friday  1st   January 2016
+       ==================================================================
+       =    List of foods    Unit   Calories/unit   Total calories      =
+       ==================================================================
+         1. Hamburger           1             700              700
+         2. Rice                1             225              225
+         3. Cookies             4              40              160
+         4. Sushi               8             100              800
+         5. Milk, low-fat(1 %)    2             104              208
+                                               Net Total      2093
+
+	 You need more 1142.13 calories to maintain your weight.
+
+              Showing the rocord on  Saturday  2nd   January 2016
+       ==================================================================
+       =    List of foods    Unit   Calories/unit   Total calories      =
+       ==================================================================
+         1. Shrimp              7              30              210
+         2. Pat thai            1            1100             1100
+         3. Milk, whole         1             150              150
+                                               Net Total      1460
+
+	 You need more 1775.13 calories to maintain your weight.
+
+              Showing the rocord on    Sunday  3rd   January 2016
+       ==================================================================
+       =    List of foods    Unit   Calories/unit   Total calories      =
+       ==================================================================
+         1. Sandwich            1             310              310
+         2. Chicken             2             100              200
+         3. water               6               0                0
+                                               Net Total       510
+
+	 You need more 2725.13 calories to maintain your weight.
+
+              Showing the rocord on    Monday  4th   January 2016
+       ==================================================================
+       =    List of foods    Unit   Calories/unit   Total calories      =
+       ==================================================================
+         1. Caesar salad        1             360              360
+         2. Potato              1             120              120
+         3. Yogurt, non-fat     1             200              200
+         4. Beer                4             150              600
+                                               Net Total      1280
+
+	 You need more 1955.13 calories to maintain your weight.
+
+              Showing the rocord on  Thuesday  5th   January 2016
+       ==================================================================
+       =    List of foods    Unit   Calories/unit   Total calories      =
+       ==================================================================
+         1. Mango               2             135              270
+         2. 9                   2             100              200
+         3. Fried Rice          1             800              800
+         4. Sushi               7              40              280
+         5. TY soup             1             200              200
+         6. water               5               0                0
+                                               Net Total      1750
+
+	 You need more 1485.13 calories to maintain your weight.
+
+              Showing the rocord on Wednesday  6th   January 2016
+       ==================================================================
+       =    List of foods    Unit   Calories/unit   Total calories      =
+       ==================================================================
+         1. Pork                3              80              240
+         2. Beef                3             120              360
+         3. Pizza               1             700              700
+         4. Hamburger           1             605              605
+                                               Net Total      1905
+
+	 You need more 1330.13 calories to maintain your weight.
+
+              Showing the rocord on   Tuesday  7th   January 2016
+       ==================================================================
+       =    List of foods    Unit   Calories/unit   Total calories      =
+       ==================================================================
+         1. Tomato              2              30               60
+         2. Yogurt, non-fat     1             155              155
+         3. Pat thai            1             700              700
+         4. Sanwish             1             600              600
+         5. Rice                2             225              450
+                                               Net Total      1965
+
+	 You need more 1270.13 calories to maintain your weight.
+
+
+	*** You gained the LOWEST   calories on: 1-3-2016
+	*** You gained the HIGHTEST calories on: 1-1-2016
+	*** The average calories: 1566.14
+
+	How many calories(average) need to maintain your weight is 
+	 You need more 1668.99 calories to maintain your weight.

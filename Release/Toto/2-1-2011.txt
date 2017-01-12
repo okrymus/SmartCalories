@@ -1,0 +1,10 @@
+Net calories gained is 100 on the date
+
+              Showing the rocord on  Thuesday  1st  February 2011
+       ==================================================================
+       =    List of foods    Unit   Calories/unit   Total calories      =
+       ==================================================================
+         1. 1                   2              50              100
+                                               Net Total       100
+
+	 You need more 2743.32 calories to maintain your weight.
